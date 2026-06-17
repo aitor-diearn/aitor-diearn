@@ -67,7 +67,7 @@ Actualmente me encuentro en un descanso profesional, en el cual estoy aprendiend
 ### Grado Superior de Desarrollo de Aplicaciones Web (DAW) | I.E.S. Julián Marías | 09/2022 - 06/2023
 Obtenido con una nota de 9,25
 
-### Grado Superior de Desarrollo de Aplicaciones Multiplataforma | I.E.S. Julián Marías | 09/2020 - 06/2022 
+### Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) | I.E.S. Julián Marías | 09/2020 - 06/2022 
 Obtenido con una nota de 9,46
 
 # Certificaciones
