@@ -9,8 +9,6 @@
 
 Desarrollador web __full-stack__ enfocado principalmente en el desarrollo __back-end__ mediante __PHP__ y __Python__. A lo largo de mi carrera profesional, mi enfoque se ha centrado en la realización de migraciones de proyectos a la nube de __AWS__, utilizando para ello __EC2__, __ECS__, __Lambdas__ y __S3__, además de la automatización de procesos manuales, reduciendo la carga de trabajo y facilitando el desarrollo de este, y el desarrollo de aplicaciones web para cliente.
 
-Actualmente me encuentro en un descanso profesional, en el cual estoy aprendiendo diversos frameworks, como React y Django, y estoy en búsqueda de nuevos retos profesionales en el desarrollo de páginas web.
-
 # Tecnologías
 
 ### Lenguajes
@@ -33,6 +31,7 @@ Actualmente me encuentro en un descanso profesional, en el cual estoy aprendiend
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonweb&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -42,6 +41,14 @@ Actualmente me encuentro en un descanso profesional, en el cual estoy aprendiend
 
 
 # Experiencia laboral
+
+### App Developer & IT Technician | CONTROL SEGURIDAD | 10/2026 - Actualidad
+
+ - Desarrollo y mantenimiento de funcionalidades para aplicaciones ya existentes.
+ - Diseño y desarrollo de aplicaciones nuevas, siguiendo las especificaciones indicadas por cliente.
+ - Diseño, desarrollo y mantenimiento de automatizaciones de procesos manuales, con el fin de reducir carga de trabajo.
+
+_Todas las tareas descritas anteriormente son desarrolladas utilizando __Claude Code__ de manera habitual para agilizar el flujo de trabajo._
 
 ### Full-stack web developer | Madison S.A. | 03/2023 - 02/2026
 
